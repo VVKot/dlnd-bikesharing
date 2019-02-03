@@ -22,7 +22,7 @@ You need Python 3, Anaconda, and Jupyter to run this project locally.
 Create a new conda environment:
 
 ```shell
-  conda create --name bikesharing python=3
+conda create --name bikesharing python=3
 ```
 
 Enter your new environment:
